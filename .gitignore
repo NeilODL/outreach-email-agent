@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 venv/
 Neil_CV.pdf
-contacts.csv
+*.csv
 logs/
